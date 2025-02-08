@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20d09234_002D54cc_002D4589_002Db62e_002D0ea58b93fb9c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;Project Location="C:\Users\FaheemRamzan\Desktop\Learning\LeetCodeProject\LeetCodeProject" Presentation="&amp;lt;LeetCodeProject&amp;gt;" /&gt;&#xD;
+      &lt;Namespace&gt;TestProject&lt;/Namespace&gt;&#xD;
+    &lt;/And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::793616EF-DAAA-4053-B32F-5DEF942E26B8::net6.0::LeetCodeProject.Trie.FindWords.Tests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::793616EF-DAAA-4053-B32F-5DEF942E26B8::net6.0::LeetCodeProject.HeapOrPriorityQueue.UnitTests.Test1&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::793616EF-DAAA-4053-B32F-5DEF942E26B8::net6.0::LeetCodeProject.HeapOrPriorityQueue.MedianFinderUnitTests.Test1&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::793616EF-DAAA-4053-B32F-5DEF942E26B8::net6.0::LeetCodeProject.HeapOrPriorityQueue.MedianFinderUnitTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::793616EF-DAAA-4053-B32F-5DEF942E26B8::net6.0::LeetCodeProject.Graph.NumIslandsUnitTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
